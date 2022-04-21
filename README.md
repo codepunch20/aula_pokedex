@@ -1,6 +1,14 @@
 # pokeapp (aula_pokedex)
 
-A Quasar Framework app
+1 - Para começar crie uma nova pasta em Documentos chamada de projetos
+2 - abra um novo terminal e acesse a pasta projetos
+
+```bash
+cd Documents
+git clone https://github.com/codepunch20/aula_pokedex
+cd aula_pokedex
+```
+
 
 ## Install the dependencies
 
