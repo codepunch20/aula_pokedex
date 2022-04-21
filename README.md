@@ -1,4 +1,4 @@
-# pokeapp (aula_pokedex)
+# Aula Consumindo API com axios e apresentando na tela, bora criar o PokeApp? (Pokedex Pokemon)
 
 #### Para começar crie uma nova pasta em Documentos chamada de projetos
 #### Abra um novo terminal e acesse a pasta projetos
