@@ -39,3 +39,20 @@ npm install
 ```bash
 quasar dev
 ```
+
+# AAJUUUDA!!!!
+### Documentação quasar e vue:
+#### Vue.js => https://br.vuejs.org/v2/guide/index.html
+#### Quasar => https://quasar.dev/vue-components
+
+## Esse projeto roda com Vue e Quasar, tudo que você precisa para desenvolver esse teste esta nesses links
+#
+# O Google é o seu melhor amigo/padrinho magico então pode abusar bastante dele para perguntar e resolver duvidas, buscar codigos, buscar exemplos FEEESHOW?!
+
+## Exemplos:
+
+### "Como criar uma nova rota no vue"
+### "Como fazer uma requisição com axios"
+### "Exemplo de requisição axios"
+
+#### etc etc etc... BOOOOOA SORTE!
